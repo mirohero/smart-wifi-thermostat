@@ -11,7 +11,7 @@ Control  EQ-3 N/K thermostats with Google Assistant or Alexa (ESP8266 & IFTT)
 
 You have to solder 3 wires to the rotary encoder on the thermostat. Have a look at [this](http://unwx.de/blog1/2017/01/20/heizkoerperthermostatsteuerung-mit-esp8266-07/) blog entry.
 
-In the next step create a new [Bylnk project](https://github.com/blynkkk)and flash the code below with the created auth token to your ESP8266.
+In the next step create a new [Bylnk project](https://github.com/blynkkk) and flash the code below with the created auth token to your ESP8266.
 
 Head over to [IFTT](https://ifttt.com/create) and build your own applet. 
 "IF" should be the Google Assistant or Alexa Service and "THAT" should be the service Webhooks which is able to make a webrequest.
