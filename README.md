@@ -25,7 +25,8 @@ Le voilà!
 
 ![](gif.gif)
 
-
+The first input will decrement the thermostat so that the microcontroller and the rotary enconder are synchronized.
+Then it will incrment to the wanted temperature. All further temperature steps will be adjusted without this reset.
 
 
 
